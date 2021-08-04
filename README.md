@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.teahub.io%2Fphotos%2Ffull%2F31-311902_lucifer-morningstar-lucifer-wallpaper-hd.jpg&imgrefurl=https%3A%2F%2Fwww.teahub.io%2Fviewwp%2FiJowRo_lucifer-morningstar-lucifer-wallpaper-hd%2F&tbnid=kJgWFhHMuQovSM&vet=1&docid=hjya6VdIJxhthM&w=1151&h=2048&hl=en-US&source=sh%2Fx%2Fim" width="200" height="200"/>
+  <img border-radius: 15px src="https://images.app.goo.gl/s2c4153gKY5D7C2R9" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Lucifer" src="https://img.shields.io/badge/Lucifer-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
