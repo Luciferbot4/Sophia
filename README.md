@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/Lucifer.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://images.app.goo.gl/2D2yRwocwB1NtirU8" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Lucifer" src="https://img.shields.io/badge/Lucifer-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
